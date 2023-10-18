@@ -1,0 +1,20 @@
+/*Html_41_1
+.bbb.zzz {
+	color: red;
+}
+/*Html_41_2
+h2.bbb.zzz {
+	color: red;
+}
+/*Html_41_3
+#elem.bbb {
+	color: red;
+}
+/*Html_41_4
+#elem.bbb.zzz {
+	color: red;
+}
+/*Html_41_5*/
+h2#elem.bbb {
+	color: red;
+}

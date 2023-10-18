@@ -1,0 +1,40 @@
+/*Html_42_1
+h2.zzz {
+	color: red;
+}
+/*Html_42_2
+h2 .zzz {
+	color: red;
+}
+/*Html_42_3
+.bbb.zzz {
+	color: red;
+}
+/*Html_42_4
+.bbb .zzz {
+	color: red;
+}
+/*Html_42_5
+.bbb.zzz.xxx {
+	color: red;
+}
+/*Html_42_6
+.bbb .zzz.xxx {
+	color: red;
+}
+/*Html_42_7
+.bbb.zzz .xxx {
+	color: red;
+}
+/*Html_42_8
+.bbb .zzz .xxx {
+	color: red;
+}
+/*Html_42_9
+#elem.bbb {
+	color: red;
+}
+/*Html_42_10*/
+#elem .bbb {
+	color: red;
+}

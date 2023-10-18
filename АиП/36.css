@@ -1,0 +1,22 @@
+/*Html_36_1
+.success {
+	color: green;
+    font-size: 30px;
+}
+.error {
+	color: red;
+    font-size: 20px;
+}
+.large {
+	font-size: 30px;
+    color:red;
+
+}
+.small {
+	font-size: 20px;
+    color:green;
+}
+/*Html_36_2*/
+.aaa .bbb .ccc {
+    color: red;
+}

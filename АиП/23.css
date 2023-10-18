@@ -1,0 +1,50 @@
+/*Html_23_1_blue-->
+p {
+	color: blue;
+}
+/*Html_23_2_red-->
+p {
+	color: blue;
+}
+b {
+	color: red;
+}
+/*Html_23_3_red-->
+b {
+	color: red;
+}
+p {
+	color: blue;
+}
+/*Html_23_4_blue-->
+ul {
+	color: blue;
+}
+/*Html_23_5_red-->
+ul {
+	color: blue;
+}
+li {
+	color: red;
+}
+/*Html_23_6_green-->
+ul {
+	color: blue;
+}
+li {
+	color: red;
+}
+i {
+	color: green;
+}
+/*Html_23_7_size30-->
+i {
+	font-size: 30px;
+}
+ul {
+	font-size: 20px;
+}
+li {
+	color: red;
+	font-weight: bold;
+}

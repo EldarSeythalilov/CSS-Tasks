@@ -1,0 +1,25 @@
+/*Html_31_1
+.eee {
+    font-size: 20px;
+}
+.zzz {
+    font-size: 30px;
+}
+.eee, .zzz {
+    line-height: 1.5;
+	font-family: Arial;
+}
+/*Html_31_2*/
+.eee {
+	font-size: 20px;
+}
+.zzz {
+	font-size: 30px;
+}
+.ggg {
+	font-size: 35px;
+}
+.eee, .zzz, .ggg {
+    text-align: center;
+	font-family: Arial;
+}
