@@ -1,0 +1,8 @@
+/*Html_50_1
+#elem + li {
+    color:red;
+}
+/*Html_50_2*/
+.elem + li {
+    color:red;
+}

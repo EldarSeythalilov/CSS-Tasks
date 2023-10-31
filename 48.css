@@ -1,0 +1,28 @@
+/*Html_48_1*/
+p {
+	color: red;
+}
+.text {
+	color: green; /* применится этот цвет */
+}
+/*Html_48_2*/
+.text {
+	color: red;
+}
+#elem {
+	color: green; /* применится этот цвет */
+}
+/*Html_48_3*/
+p {
+	color: red;
+}
+div p {
+	color: green; /* применится этот цвет */
+}
+/*Html_48_4*/
+.text {
+	color: red;
+}
+.block .text {
+	color: green; /* применится этот цвет */
+}
