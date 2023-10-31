@@ -1,0 +1,14 @@
+/*Html_49_1*/
+.block {
+	color: red;
+}
+p {
+	color: green; /* применится этот цвет */
+}
+/*Html_49_2*/
+#block {
+	color: red;
+}
+.text {
+	color: green; /* применится этот цвет */
+}
