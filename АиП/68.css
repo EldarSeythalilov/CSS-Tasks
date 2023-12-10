@@ -1,0 +1,8 @@
+/*Html_68_1*/
+#elem {
+	border-width: 3px;
+	border-style: ridge;
+	border-color: black;
+	width: 300px;
+	height: 100px;
+}

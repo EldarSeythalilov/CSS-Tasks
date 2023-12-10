@@ -1,0 +1,24 @@
+/*Html_81_1*/
+body{
+    margin: 0;
+    padding: 0;
+}
+#elem {
+	background-repeat: repeat-y;
+	background-image: url("bg.png");
+	width: 1980px;
+	height: 1024px;
+}
+/*Html_81_2
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#elem {
+	background-repeat: repeat-x;
+	background-image: url("bg.png");
+	width: 100vw;
+    height: 100vh;
+}

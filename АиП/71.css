@@ -1,0 +1,18 @@
+/*Html_71_1
+#elem {
+	width: 400px;
+	height: 300px;
+	border-left: 3px solid orange;
+	border-right: 3px solid green;
+    border-top: 3px solid lightskyblue;
+    border-bottom: 3px solid red;
+}
+/*Html_71_2*/
+#elem {
+	width: 400px;
+	height: 300px;
+	border-left: 3px solid red;
+	border-right: 3px dotted green;
+    border-top: 1px solid lightskyblue;
+    border-bottom: 1px solid lightskyblue;
+}

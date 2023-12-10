@@ -1,0 +1,10 @@
+/*Html_56_1*/
+a {
+	color: red;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	color: blue;
+}

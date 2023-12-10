@@ -1,0 +1,7 @@
+/*Html_77_1*/
+#elem {
+	width: 300px;
+	height: 300px;
+	border: 1px solid green;
+	border-radius: 10px 60px 30px;
+}

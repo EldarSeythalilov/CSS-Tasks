@@ -1,0 +1,12 @@
+/*Html_62_1
+li:not(.elem) {
+	color: red;
+}
+/*Html_62_2
+li:not(:first-child) {
+	color: red;
+}
+/*Html_62_3*/
+li:not(:first-child,:last-child) {
+	color: red;
+}
